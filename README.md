@@ -12,9 +12,9 @@ Bài tập, ghi chú và capstone của mình cho khoá [DataTalksClub Data Engi
 | [module-04](module-04) | Analytics engineering | dbt (`taxi_rides_ny`), BigQuery |
 | [module-05](module-05) | Batch processing | Spark / PySpark, Spark SQL, GCS |
 | [module-06](module-06) | Streaming | Kafka, PySpark Structured Streaming |
-| [workshop-01](workshop-01) | Workshop 1: homework | Python / notebook |
-| [workshop-02](workshop-02) | Workshop 2: stream processing SQL | RisingWave, NYC taxi data |
-| [workshop-risingwave](workshop-risingwave) | Cấu hình docker cho workshop RisingWave | Prometheus, Grafana |
+| [workshop-01](workshop-01) | Workshop 1: data loading | dlt, DuckDB |
+| [workshop-02](workshop-02) | Workshop 2: stream processing bằng SQL | RisingWave, NYC taxi |
+| [workshop-risingwave](workshop-risingwave) | Cấu hình môi trường workshop RisingWave (đang rỗng) | Prometheus, Grafana |
 | [de-zoomcamp-2024-capstone](de-zoomcamp-2024-capstone) | **Capstone**: UEFA Champions League 2016-2022 | Mage, GCS, BigQuery, dbt, Terraform |
 
 ## Capstone
